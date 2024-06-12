@@ -1,0 +1,7 @@
+Plugins:
+
+Pipeline stage view
+AnsiColor
+Pipeline Utility Steps
+Nexus Uploader
+Blue Ocean
